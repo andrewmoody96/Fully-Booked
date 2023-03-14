@@ -1,6 +1,7 @@
 # Fully-Booked
 Team 3: Miguel Escobar, Andrew Moody, & Natalie Triffo.
 # Links 
+### Heroku Deployment is Inactive -- Waiting on Word from Teammates so I can redeploy
 https://fully-booked-2022.herokuapp.com/  
 https://github.com/Check-Yo-Shelves/Fully-Booked 
 # Purpose
